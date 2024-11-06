@@ -14,7 +14,7 @@ export const MovieDetails = () => {
       setMovie(json);
     }
     fetchMovie();
-  },[])
+  },[params.id])
 
   useTitle(movie.original_title);
 
