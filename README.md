@@ -45,17 +45,22 @@ Before you begin, ensure you have met the following requirements:
 
 📸 Screenshots
 Home Page:
-![Home Page](./assets/images/Home Page.png)
+
+![Home Page](https://github.com/user-attachments/assets/e6249025-5507-4ce8-a1af-303e759ed80c)
 
 Movie Details Page:
-![Movie Details Page](./assets/images/Movie Details Page.png)
+
+![Movie Details Page](https://github.com/user-attachments/assets/e70984c2-ee60-4cb4-8471-3c09b2fd4b32)
 
 Search Results Page:
-![Seach Results](./assets/images/Search Results.png)
+
+![Search Results](https://github.com/user-attachments/assets/cdc3f900-0761-4f9d-82a7-a10ea5392b29)
 
 Light Mode:
-![Light Mode](./assets/images/Light Mode.png)
+
+![Light Mode](https://github.com/user-attachments/assets/67dcee14-25d1-4bd5-a09e-328a3036d16c)
 
 Mobile View:
-![Mobile View](./assets/images/Mobile View.png)
+
+![Mobile View](https://github.com/user-attachments/assets/b3239c80-b201-4cef-a79c-a924581474a8)
 
