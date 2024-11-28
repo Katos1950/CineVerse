@@ -24,13 +24,13 @@ Before you begin, ensure you have met the following requirements:
 
 🔧 Setup Instructions
 1. Clone the repository
-    git clone : https://github.com/Katos1950/CineVerse.git
+- git clone : https://github.com/Katos1950/CineVerse.git
 
 2. Navigate to the Project Directory
-    cd CineVerse
+- cd CineVerse
 
 3. Install dependencies
-    npm install
+- npm install
 
 4. Add TMDb API Key
 - Create a .env file in the root directory.
@@ -38,10 +38,11 @@ Before you begin, ensure you have met the following requirements:
     REACT_APP_TMDB_API_KEY=your_api_key_here
 
 5. Run the development server
-    npm start
+- npm start
 
 6. Build for production
-    npm run build
+- npm run build
+
 
 📸 Screenshots
 Home Page:
