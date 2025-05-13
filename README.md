@@ -1,50 +1,58 @@
-CineVerse 🎥
+# CineVerse 🎥
+[Live Demo](https://cineverse-db.netlify.app/)
+
 A modern and responsive movie exploration app built with React JS
 
-🚀 Features
+#  🚀 Features
 - Search for movies: Discover information about your favorite movies.
 - Responsive design: Optimized for all devices, from mobile to desktop.
 - Dynamic API Integration: Powered by TMDb API for real-time movie data.
 - Interactive UI: Built with React components for a smooth and user-friendly experience.
 - Modern CSS Styling: Using CSS modules for modular and reusable styling.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 - Frontend: React JS, React Router, JSX
 - Styling: CSS Modules
 - API: TMDb API
 - State Management: React State & Context API
 - Build Tool: Vite or Create React App (CRA)
 
-Prerequisites
+# Prerequisites
 Before you begin, ensure you have met the following requirements:
 - Node.js installed on your system.
 - Basic understanding of React.js.
 - An API key from The Movie Database (TMDb) to fetch data.
 
 
-🔧 Setup Instructions
+# 🔧 Setup Instructions
 1. Clone the repository
-- git clone : https://github.com/Katos1950/CineVerse.git
+   ```bash
+   git clone : https://github.com/Katos1950/CineVerse.git
 
-2. Navigate to the Project Directory
-- cd CineVerse
+3. Navigate to the Project Directory
+   ```bash
+   cd CineVerse
 
 3. Install dependencies
-- npm install
+   ```bash
+    npm install
 
 4. Add TMDb API Key
 - Create a .env file in the root directory.
 - Add your API key as:
+    ```bash
     REACT_APP_TMDB_API_KEY=your_api_key_here
 
 5. Run the development server
-- npm start
+    ```bash
+    npm start
 
 6. Build for production
-- npm run build
+    ```bash
+    npm run build
 
 
-📸 Screenshots
+# 📸 Screenshots
 Home Page:
 
 ![Home Page](https://github.com/user-attachments/assets/e6249025-5507-4ce8-a1af-303e759ed80c)
